@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import com.fatec.produto.model.Catalogo;
 import com.fatec.produto.servico.IProdutoServico;
 @SpringBootTest
-class Req02ConsultarCatalogoTest {
+class Req02TIConsultarCatalogoTest {
 	@Autowired
 	IProdutoServico produtoServico;
 	@Test

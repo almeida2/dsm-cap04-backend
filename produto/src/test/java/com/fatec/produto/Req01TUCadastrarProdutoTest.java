@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import com.fatec.produto.model.Produto;
 
-class Req03CadastrarProdutoTest {
+class Req01TUCadastrarProdutoTest {
 
 	private Produto produto;
 
